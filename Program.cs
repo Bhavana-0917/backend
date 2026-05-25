@@ -27,4 +27,4 @@ app.MapGet("/weather/{city}", (string city) =>
     });
 });
 
-app.Run("http://localhost:5000");
+app.Run("http://0.0.0.0:8080");
