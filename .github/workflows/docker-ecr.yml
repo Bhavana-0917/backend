@@ -6,8 +6,8 @@ on:
       - main
 
 jobs:
-docker:
-runs-on: ubuntu-latest
+  docker:
+    runs-on: ubuntu-latest
 
 
 steps:
