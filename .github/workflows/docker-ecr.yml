@@ -33,4 +33,4 @@ steps:
   - name: Push Docker Image
     run: |
       docker push 800309353555.dkr.ecr.ap-south-1.amazonaws.com/${{ secrets.ECR_REPOSITORY }}:latest
-```
+
