@@ -23,3 +23,4 @@ C:\Users\kanchanam.bhavana\weather-app\WeatherAPI\obj\Debug\net8.0\refint\Weathe
 C:\Users\kanchanam.bhavana\weather-app\WeatherAPI\obj\Debug\net8.0\WeatherAPI.pdb
 C:\Users\kanchanam.bhavana\weather-app\WeatherAPI\obj\Debug\net8.0\WeatherAPI.genruntimeconfig.cache
 C:\Users\kanchanam.bhavana\weather-app\WeatherAPI\obj\Debug\net8.0\ref\WeatherAPI.dll
+C:\Users\kanchanam.bhavana\weather-app\WeatherAPI\obj\Debug\net8.0\WeatherAPI.sourcelink.json
